@@ -35,9 +35,9 @@ dev = ["pytest>=8", "mypy>=1.10", "ruff>=0.6", "build>=1.2", "twine>=5"]
 procedural-memory = "procedural_memory.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/GrappinoRoot/script-tool"
-Issues = "https://github.com/GrappinoRoot/script-tool/issues"
-Changelog = "https://github.com/GrappinoRoot/script-tool/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/GrappinoRoot/scriptflow"
+Issues = "https://github.com/GrappinoRoot/scriptflow/issues"
+Changelog = "https://github.com/GrappinoRoot/scriptflow/blob/main/CHANGELOG.md"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/procedural_memory"]
